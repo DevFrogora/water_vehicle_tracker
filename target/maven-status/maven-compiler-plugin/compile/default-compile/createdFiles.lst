@@ -1,0 +1,4 @@
+com\water_vehicle_tracker\herokuapp\water_vehicle_tracker\driver\model\Driver.class
+com\water_vehicle_tracker\herokuapp\water_vehicle_tracker\MyResource.class
+com\water_vehicle_tracker\herokuapp\water_vehicle_tracker\driver\dao\DriverDAO.class
+com\water_vehicle_tracker\herokuapp\water_vehicle_tracker\driver\service\DriverService.class
